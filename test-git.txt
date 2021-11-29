@@ -2,6 +2,10 @@
 
 En el primer Sprint escribiremos nuestros nombres aqui:
 -Boris Yesid
+- Wilmer
+- Jhon Alexander Ibarra
+- Cristhian Andres Chamorro Vallejo
+- Juan Fernando
 
 En el segundo Sprint escribiremos nuestros apellidos aqui:
 -
