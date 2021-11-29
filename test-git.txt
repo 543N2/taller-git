@@ -1,7 +1,7 @@
 ÉSTE ES EL ARCHIVO PARA TRABAJO EN EQUIPO
 
 En el primer Sprint escribiremos nuestros nombres aqui:
--
+- Cristhian Andres Chamorro Vallejo
 
 En el segundo Sprint escribiremos nuestros apellidos aqui:
 -
