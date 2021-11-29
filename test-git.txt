@@ -1,6 +1,7 @@
 ÉSTE ES EL ARCHIVO PARA TRABAJO EN EQUIPO
 
 En el primer Sprint escribiremos nuestros nombres aqui:
+-Boris Yesid
 - Wilmer
 - Jhon Alexander Ibarra
 - Cristhian Andres Chamorro Vallejo
