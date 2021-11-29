@@ -1,13 +1,11 @@
 ÉSTE ES EL ARCHIVO PARA TRABAJO EN EQUIPO
 
-En el primer Sprint escribiremos nuestros nombres aqui:
--Boris Yesid
+En  el Sprint escribiremos nuestros nombres aqui:
+- Boris Yesid
 - Wilmer
 - Jhon Alexander Ibarra
 - Cristhian Andres Chamorro Vallejo
 - Juan Fernando
-
-En el segundo Sprint escribiremos nuestros apellidos aqui:
--
+- Jose Manuel
 
 Entregado por Siesoft.
